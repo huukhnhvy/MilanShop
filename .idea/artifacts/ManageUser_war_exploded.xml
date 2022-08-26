@@ -1,0 +1,59 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ManageUser:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ManageUser_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ManageUser" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$USER_HOME$/Downloads/hibernate-release-5.6.0.Final/hibernate-release-5.6.0.Final/lib/required/istack-commons-runtime-3.0.7.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/hibernate-release-5.6.0.Final/hibernate-release-5.6.0.Final/lib/required/antlr-2.7.7.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/hibernate-release-5.6.0.Final/hibernate-release-5.6.0.Final/lib/required/byte-buddy-1.11.20.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/hibernate-release-5.6.0.Final/hibernate-release-5.6.0.Final/lib/required/classmate-1.5.1.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/hibernate-release-5.6.0.Final/hibernate-release-5.6.0.Final/lib/required/FastInfoset-1.2.15.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/hibernate-release-5.6.0.Final/hibernate-release-5.6.0.Final/lib/required/hibernate-commons-annotations-5.1.2.Final.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/hibernate-release-5.6.0.Final/hibernate-release-5.6.0.Final/lib/required/hibernate-core-5.6.0.Final.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/hibernate-release-5.6.0.Final/hibernate-release-5.6.0.Final/lib/required/jandex-2.2.3.Final.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/hibernate-release-5.6.0.Final/hibernate-release-5.6.0.Final/lib/required/javax.activation-api-1.2.0.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/hibernate-release-5.6.0.Final/hibernate-release-5.6.0.Final/lib/required/javax.persistence-api-2.2.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/hibernate-release-5.6.0.Final/hibernate-release-5.6.0.Final/lib/required/jaxb-api-2.3.1.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/hibernate-release-5.6.0.Final/hibernate-release-5.6.0.Final/lib/required/jaxb-runtime-2.3.1.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/hibernate-release-5.6.0.Final/hibernate-release-5.6.0.Final/lib/required/jboss-logging-3.4.2.Final.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/hibernate-release-5.6.0.Final/hibernate-release-5.6.0.Final/lib/required/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/hibernate-release-5.6.0.Final/hibernate-release-5.6.0.Final/lib/required/stax-ex-1.8.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/hibernate-release-5.6.0.Final/hibernate-release-5.6.0.Final/lib/required/txw2-2.3.1.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/sqljdbc42.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../servlet/apache-tomcat-9.0.52/webapps/examples/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../servlet/apache-tomcat-9.0.52/webapps/examples/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/commons-beanutils-1.9.4.jar" />
+          <element id="library" level="project" name="opensymphony.sitemesh" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/commons-collections-3.2.2.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/commons-logging-1.2.jar" />
+          <element id="library" level="project" name="javax.mail" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/activation-1.1.1.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/mail-1.4.7.jar" />
+          <element id="library" level="project" name="Maven: opensymphony:sitemesh:2.4.2" />
+          <element id="library" level="project" name="Maven: org.hibernate:hibernate-core:5.4.0.CR1" />
+          <element id="library" level="project" name="Maven: org.jboss.logging:jboss-logging:3.3.2.Final" />
+          <element id="library" level="project" name="Maven: org.javassist:javassist:3.24.0-GA" />
+          <element id="library" level="project" name="Maven: net.bytebuddy:byte-buddy:1.9.4" />
+          <element id="library" level="project" name="Maven: antlr:antlr:2.7.7" />
+          <element id="library" level="project" name="Maven: org.jboss.spec.javax.transaction:jboss-transaction-api_1.2_spec:1.1.1.Final" />
+          <element id="library" level="project" name="Maven: org.jboss:jandex:2.0.5.Final" />
+          <element id="library" level="project" name="Maven: com.fasterxml:classmate:1.3.4" />
+          <element id="library" level="project" name="Maven: javax.activation:javax.activation-api:1.2.0" />
+          <element id="library" level="project" name="Maven: org.dom4j:dom4j:2.1.1" />
+          <element id="library" level="project" name="Maven: javax.xml.bind:jaxb-api:2.2.12-b140109.1041" />
+          <element id="library" level="project" name="Maven: org.glassfish.jaxb:jaxb-runtime:2.2.11" />
+          <element id="library" level="project" name="Maven: org.hibernate.common:hibernate-commons-annotations:5.1.0.Final" />
+          <element id="library" level="project" name="Maven: org.hibernate.javax.persistence:hibernate-jpa-2.1-api:1.0.2.Final" />
+          <element id="library" level="project" name="Maven: org.hibernate:hibernate-entitymanager:5.4.0.CR1" />
+          <element id="library" level="project" name="Maven: javax.mail:mail:1.4.7" />
+          <element id="library" level="project" name="Maven: javax.activation:activation:1.1" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="ManageUser/web/Web" />
+    </root>
+  </artifact>
+</component>
